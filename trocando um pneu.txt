@@ -1,0 +1,11 @@
+Trocar um pneu
+
+-encontre um lugar plano;
+-pegue o estepe e o macaco;
+-levante o macaco até ele apoiar o carro;
+-tire a calota e afrouxe os parafusos com a auxilio de uma chave de rodas;
+-ponha o estepe no eixo;
+-encaixe os parafusos a mão;
+-aperte os parafusos com auxilio da chave de rodas;
+-retire o macaco;
+--guarde o estepe.
